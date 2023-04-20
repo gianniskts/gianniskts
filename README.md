@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Giannis</h1>
 <h3 align="center">I'm a computer science student with a passion for developing innovative software solutions</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gianniskts" alt="gianniskts" /></a> </p>
-
 - 🌱 I’m currently learning **ML**
 
 - 💬 Ask me about **GPT, LLM's, AI Integration**
