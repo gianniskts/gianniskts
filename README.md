@@ -1,9 +1,13 @@
 <h1 align="center">Hi 👋, I'm Giannis</h1>
 <h3 align="center">I'm a computer science student with a passion for developing innovative software solutions</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=gianniskts&label=Profile%20views&color=0e75b6&style=flat" alt="gianniskts" /> </p>
+
 - 🌱 I’m currently learning **ML**
 
 - 💬 Ask me about **GPT, LLM's, AI Integration**
+
+- 📫 How to reach me **gianniskotsias@outlook.com**
 
 - 📄 My CV [https://pdfhost.io/v/CYQV0Ph9d_CV_GiannisKotsias](https://pdfhost.io/v/CYQV0Ph9d_CV_GiannisKotsias)
 
