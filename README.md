@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **ML**
 
-- 💬 Ask me about **GPT, LLM's, AI Integration**
+- 💬 Ask me about **Generative AI, LLM's, AI Integration**
 
 - 📫 How to reach me **gianniskotsias@outlook.com**
 
