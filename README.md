@@ -5,11 +5,9 @@
 
 - 🌱 I’m currently learning **ML**
 
-- 💬 Ask me about **Generative AI, LLM's, AI Integration**
+- 💬 Ask me about **Mobile Apps, Generative AI, LLM's, AI Integration**
 
 - 📫 How to reach me **gianniskotsias@outlook.com**
-
-- 📄 My CV [https://pdfhost.io/v/CYQV0Ph9d_CV_GiannisKotsias](https://pdfhost.io/v/CYQV0Ph9d_CV_GiannisKotsias)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
