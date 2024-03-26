@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gianniskts&label=Profile%20views&color=0e75b6&style=flat" alt="gianniskts" /> </p>
 
-- 📄 My CV [https://pdfhost.io/v/CYQV0Ph9d_CV_GiannisKotsias](https://pdfhost.io/v/CYQV0Ph9d_CV_GiannisKotsias](https://flowcv.com/resume/3sfmmwr10i))
+- 📄 My CV [View CV](https://flowcv.com/resume/3sfmmwr10i)
 
 - 📫 How to reach me **gianniskotsias@outlook.com**
 
