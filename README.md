@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Giannis</h1>
-<h3 align="center">I'm a computer science student with a passion for developing innovative software solutions</h3>
+<h3 align="center">I'm a software engineer with a passion for developing innovative software solutions</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gianniskts&label=Profile%20views&color=0e75b6&style=flat" alt="gianniskts" /> </p>
 
-- 🌱 I’m currently learning **ML**
-
-- 💬 Ask me about **Mobile Apps, Generative AI, LLM's, AI Integration**
+- 📄 My CV [https://pdfhost.io/v/CYQV0Ph9d_CV_GiannisKotsias](https://pdfhost.io/v/CYQV0Ph9d_CV_GiannisKotsias](https://flowcv.com/resume/3sfmmwr10i))
 
 - 📫 How to reach me **gianniskotsias@outlook.com**
 
