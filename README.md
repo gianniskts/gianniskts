@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Giannis</h1>
-<h3 align="center">I'm a tech CTO with a passion for developing innovative software solutions</h3>
+<h3 align="center">Fraction CTO</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gianniskts&label=Profile%20views&color=0e75b6&style=flat" alt="gianniskts" /> </p>
 
